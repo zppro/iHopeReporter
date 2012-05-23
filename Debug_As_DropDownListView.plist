@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>ITEM_ID</key>
+		<string>1000000001</string>
+		<key>ITEM_NAME</key>
+		<string>门诊</string>
+		<key>ITEM_ICON</key>
+		<string>01</string>
+		<key>ITEM_TYPE</key>
+		<integer>0</integer>
+		<key>INPUT_CODE</key>
+		<string>M</string>
+		<key>NEXT_URL</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>ITEM_ID</key>
+		<string>1000000002</string>
+		<key>ITEM_NAME</key>
+		<string>住院</string>
+		<key>ITEM_ICON</key>
+		<string>03</string>
+		<key>ITEM_TYPE</key>
+		<integer>0</integer>
+		<key>INPUT_CODE</key>
+		<string>Z</string>
+		<key>NEXT_URL</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>ITEM_ID</key>
+		<string>1000000011</string>
+		<key>ITEM_NAME</key>
+		<string>体检</string>
+		<key>ITEM_ICON</key>
+		<string>01</string>
+		<key>ITEM_TYPE</key>
+		<integer>1</integer>
+		<key>INPUT_CODE</key>
+		<string>T</string>
+		<key>NEXT_URL</key>
+		<string></string>
+	</dict>
+</array>
+</plist>
